@@ -15,12 +15,12 @@ Implementation of the `ft_printf()` function with the following conversions:
 - `%X` - Hexadecimal (uppercase)
 - `%%` - Percent symbol
 
-## Files
+## Files
 
 - `Makefile` with the following rules: `all`, `clean`, `fclean`, `re`, `bonus`.
 - `libftprintf.a` library for the `ft_printf()` implementation.
 
-## Usage
+## Usage
 
 1. Clone the repository and navigate to the project folder.
 2. Run `make` to compile and generate `libftprintf.a`.
